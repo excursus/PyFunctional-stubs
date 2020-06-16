@@ -2,4 +2,7 @@
 
 This package contains [type stubs](https://www.python.org/dev/peps/pep-0561/)
 to provide more precise static types and type inference for
-[PyFunctional][https://github.com/EntilZha/PyFunctional/).
+[PyFunctional](https://github.com/EntilZha/PyFunctional/).
+
+## Installation
+To install, clone the repository and `functional` directiory in your `stubs` directory.
