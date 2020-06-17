@@ -5,4 +5,4 @@ to provide more precise static types and type inference for
 [PyFunctional](https://github.com/EntilZha/PyFunctional/).
 
 ## Installation
-To install, clone the repository and place the `functional` directory in your `stubs` directory.
+To install, clone the repository and symlink the `functional` directory into the `stubs` directory of your project of choice.
